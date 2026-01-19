@@ -1,4 +1,4 @@
-# Olá pessoal 👋, aqui é o [Seu Nome]! 🧪
+# Olá pessoal 👋, aqui é o Marcelo Barbosa! 🧪
 
 🔍 **Atualmente:** Em busca da minha primeira oportunidade como **QA Júnior / Estagiário**, focado em construir um portfólio sólido de testes manuais e automatizados.
 👨‍💻 **Background:** Trago uma bagagem de estudos em **Back-end (Java/Spring)** iniciada em 2021, o que facilita minha visão técnica para testes de caixa branca e automação.
