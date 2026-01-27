@@ -5,7 +5,7 @@
 🧠 **Foco:** Especializando-me em **Automação de Testes** (Web, API e Mobile) e aprimorando processos de **QA Ágil**.<br>
 📚 **Estudos Atuais:** Aprofundando em **Selenium com Java**, e arquitetura de testes.<br>
 ✍️ **Projetos Recentes:** Automação e documentação de testes para o OrangeHRM e prática de report de bugs em plataformas como Crowdtest.<br>
-🎓 **Formação:** Cursando **Análise e Desenvolvimento de Sistemas** na Descomplica Faculdade Digital (2026-2027).
+🎓 **Formação:** Cursando **Análise e Desenvolvimento de Sistemas** na Descomplica Faculdade Digital (2026-2028).
 
 ---
 
