@@ -49,7 +49,7 @@
 
 * **Análise e Desenvolvimento de Sistemas**
     * Instituição: Descomplica Faculdade Digital
-    * Período: 2026 – 2027 (Em andamento)
+    * Período: 2026 – 2028 (Em andamento)
 
 ---
 
