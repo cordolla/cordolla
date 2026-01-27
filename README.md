@@ -1,7 +1,7 @@
 # Olá pessoal 👋, aqui é o Marcelo Barbosa! 🧪
 
 🔍 **Atualmente:** Em busca da minha primeira oportunidade como **QA Júnior / Estagiário**, focado em construir um portfólio sólido de testes manuais e automatizados.<br>
-👨‍💻 **Background:** Trago uma bagagem de estudos em **Back-end (Java/Spring)** iniciada em 2021, o que facilita minha visão técnica para testes de caixa branca e automação.<br>
+👨‍💻 **Background:** Trago uma bagagem de estudos em **Back-end (Java/Spring)** iniciada em 2024, o que facilita minha visão técnica para testes de caixa branca e automação.<br>
 🧠 **Foco:** Especializando-me em **Automação de Testes** (Web, API e Mobile) e aprimorando processos de **QA Ágil**.<br>
 📚 **Estudos Atuais:** Aprofundando em **Selenium com Java**, e arquitetura de testes.<br>
 ✍️ **Projetos Recentes:** Automação e documentação de testes para o OrangeHRM e prática de report de bugs em plataformas como Crowdtest.<br>
