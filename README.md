@@ -1,21 +1,21 @@
-# Marcelo Barbosa
+# Marcelo Barbosa 👋
 
-## QA | Automação de Testes Web e API
+Estudante de Análise e Desenvolvimento de Sistemas apaixonado por **Garantia de Qualidade (QA)** e automação de testes. Atualmente focado em construir soluções robustas para testes de API e Web.
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em Garantia de Qualidade (QA). Busco minha
-primeira oportunidade de estágio para aplicar conhecimentos sólidos em testes manuais, validação de APIs REST e
-automação de testes Web. Possuo base técnica em desenvolvimento Back-end com Java e Spring, o que facilita a
-compreensão de arquiteturas de software e a identificação de falhas em integrações. Comprometido com a evolução
-contínua em ferramentas como Cypress, Rest Assured e metodologias ágeis.
+### 🚀 O que eu domino no momento
+* **Linguagens:** Java, JavaScript e SQL.
+* **Automação de API:** Rest Assured (com JUnit 5 e Data Factory).
+* **Automação Web:** Cypress e Selenium WebDriver (Page Object Model).
+* **Massa de Dados:** Java Faker para testes dinâmicos.
+* **Relatórios:** Allure Report para evidências técnicas detalhadas.
 
-Atuo com:
+### 🛠️ Meu Projeto em Destaque
+**[ServeRest API Automation](https://github.com/cordolla/serverest-restassured-apitests)**
+Suíte de testes automatizados para APIs REST utilizando **Java 21** e **Rest Assured**. Apliquei padrões como **Data Factory** para geração de massa de dados e integração com **Allure Report** para relatórios profissionais.
 
-Linguagens: Java , JavaScript, SQL
-Automação: Cypress, Page Object Model, Factory Pattern, Gherkin
-Testes de API: REST API, Postman, Validação de JSON, Swagger, Rest Assured
-Fundamentos QA: Testes Manuais, Regressão, Funcionais, Escrita de Casos de Teste, Report de Bugs
-Bancos de Dados: PostgreSQL, MySQL (Consultas básicas e validação de dados)
-Ferramentas: Git, GitHub, Jira, VS Code, IntelliJ IDEA
-Metodologias: Noções de Scrum e Kanban
+### 📊 Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=cordolla&show_icons=true&theme=dracula)
 
-Tenho perfil analítico, comunicação técnica clara e foco em melhoria contínua da qualidade do produto.
+### 📬 Vamos nos conectar?
+* **LinkedIn:** [marcelo-barbosa-88a426381](https://www.linkedin.com/in/marcelo-barbosa-88a426381/)
+* **Email:** cordolla25@gmail.com
